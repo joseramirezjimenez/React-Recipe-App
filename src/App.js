@@ -5,7 +5,7 @@ import RecipeSearcher from './RecipeSearcher/RecipeSearcher';
 function App() {
   return (
     <div>
-      <RecipeSearcher  />
+      <RecipeSearcher />
     </div>
   );
 }
